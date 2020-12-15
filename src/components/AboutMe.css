@@ -1,0 +1,12 @@
+.center {
+    position: relative !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 100px !important;
+    margin-bottom: 20px !important;
+    width: 230px !important;
+}
+
+.aboutme {
+    margin-bottom: 100px !important;
+}

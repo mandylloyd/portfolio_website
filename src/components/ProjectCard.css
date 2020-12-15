@@ -1,0 +1,24 @@
+.card {
+    margin-left: 130px !important;
+    margin-bottom: 70px !important;
+    height: 500px !important;
+    width: 400px !important;
+}
+
+.header {
+    font-size: 20px !important;
+}
+
+.meta {
+    font-size: 15px !important;
+}
+
+.extra {
+    background-color: rgb(241, 240, 240);
+}
+
+.image {
+    height: 300px !important;
+    width: 400px !important;
+  }
+  

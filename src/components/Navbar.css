@@ -1,0 +1,11 @@
+.item-color {
+    background-color: #fde782 !important;
+    font-size: 20px ;
+    color: black !important;
+}
+
+.active-color {
+    background-color: #a15966 !important;
+    font-size: 20px;
+    color: white !important;
+}
