@@ -6,7 +6,7 @@ const AboutMe = () => {
     return (
         <div>
             <div className="ui text container">
-                <img className="ui large circular image center" src={require('../images' + '/me.png')}/>
+                <img alt="" className="ui large circular image center" src={require('../images/me.png')}/>
 
                 <div className="ui list">
                     <div className="item">
@@ -24,7 +24,7 @@ const AboutMe = () => {
                     <div className="item">
                         <i className="mail icon"></i>
                         <div className="content">
-                            <a className="mailto:jack@semantic-ui.com">mandylloyd720@gmail.com</a>
+                            <p className="mailto:jack@semantic-ui.com">mandylloyd720@gmail.com</p>
                         </div>
                     </div>
                     <div className="item">

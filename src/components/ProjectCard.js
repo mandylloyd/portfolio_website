@@ -8,10 +8,10 @@ const ProjectCard = (props) => {
                 <div className="image">
                     <div className="ui fade reveal">
                         <div className="visible content">
-                            <img alt="project image" className="ui large image" src={require('../images' + props.img1)} />
+                            <img alt="project screenshot" className="ui large image" src={require('../images' + props.img1)} />
                         </div>
                         <div className="hidden content">
-                        <img alt="project image" className="ui large image" src={require('../images' + props.img2)} />
+                        <img alt="project screenshot" className="ui large image" src={require('../images' + props.img2)} />
                         </div>
                     </div>
                 </div>
@@ -21,9 +21,9 @@ const ProjectCard = (props) => {
                         props.title
                     }</div>
                     <div className="meta">
-                        <a>{
+                        <p>{
                             props.links
-                        }</a>
+                        }</p>
                     </div>
                     <div className="description">
                         {
